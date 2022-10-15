@@ -4,6 +4,6 @@
 
 <a href="https://codeclimate.com/github/TessaVesper/fullstack-javascript-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/29f30e7e05f240853266/maintainability" /></a>
 
-# asciinema recording:
+#### asciinema recording:
 
 https://asciinema.org/a/IsDhgYCmjlWDinZ6VPTu6iDsl
