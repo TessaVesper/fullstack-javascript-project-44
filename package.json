@@ -18,6 +18,7 @@
   "homepage": "https://github.com/TessaVesper/fullstack-javascript-project-44#readme",
   "type": "module",
   "dependencies": {
+    "asciinema-player": "^3.0.1",
     "eslint": "^8.25.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
