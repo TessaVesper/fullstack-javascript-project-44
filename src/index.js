@@ -22,7 +22,7 @@ export function gameIteration(title, getPair) {
 
     if (reply !== correctAnswer) {
       console.log(
-        `It is wrong answer ;(. Correct answer was ${correctAnswer}.\nLet's try again, ${name}!`
+        `'${reply}' is wrong answer ;(. Correct answer was '${correctAnswer}'.\nLet's try again, ${name}!`
       );
       gameOn = false;
     } else {

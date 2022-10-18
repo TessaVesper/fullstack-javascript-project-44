@@ -8,6 +8,10 @@
 
 https://asciinema.org/a/IsDhgYCmjlWDinZ6VPTu6iDsl
 
-### asciinema recording for Calc Game:
+#### asciinema recording for Calc Game:
 
 https://asciinema.org/a/DrH46P2O8yJri7TErlyflST8i
+
+#### asciinema recording for GCD Game:
+
+https://asciinema.org/a/qZteKW3WIQA9WOehLilSzp4Qr
