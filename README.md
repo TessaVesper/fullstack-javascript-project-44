@@ -19,3 +19,7 @@ https://asciinema.org/a/qZteKW3WIQA9WOehLilSzp4Qr
 #### asciinema recording of Progression Game:
 
 https://asciinema.org/a/e8FIOjpt074YCkRx4YiHh4U7q
+
+#### asciinema recording of Prime Game:
+
+https://asciinema.org/a/OWTRjLkcyx5Y6C8VPtQ97O4k9
