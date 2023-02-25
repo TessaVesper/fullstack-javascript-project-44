@@ -21,7 +21,8 @@
   "homepage": "https://github.com/TessaVesper/fullstack-javascript-project-44#readme",
   "dependencies": {
     "debug": "^4.3.4",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "@jest/globals": "^29.0.1",
