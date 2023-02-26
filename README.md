@@ -3,3 +3,6 @@
 
 ### Brain Even Game:
 https://asciinema.org/a/5TjjezvlK9rciN9N7WmmGXrhc
+
+### Brain Calc Game:
+https://asciinema.org/a/II4dUdc9GVqdvTJzDpi9OlBr0
